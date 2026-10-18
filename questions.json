@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "What is the English meaning of “नमस्ते”?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Please"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "नमस्ते का अर्थ Hello होता है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "question": "What is the Hindi meaning of “Thank you”?",
+    "options": [
+      "माफ़ कीजिए",
+      "धन्यवाद",
+      "शुभ रात्रि",
+      "कृपया"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Thank you का अर्थ धन्यवाद है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 3,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "I is happy.",
+      "I are happy.",
+      "I am happy.",
+      "I be happy."
+    ],
+    "answerIndex": 2,
+    "explanationHi": "I के साथ am आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 4,
+    "question": "What is the plural of “book”?",
+    "options": [
+      "Bookes",
+      "Books",
+      "Bookies",
+      "Book's"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Book का plural Books है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 5,
+    "question": "Complete: She ___ a student.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "She के साथ is आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 6,
+    "question": "What does “Good morning” mean?",
+    "options": [
+      "शुभ प्रभात",
+      "शुभ रात्रि",
+      "अलविदा",
+      "धन्यवाद"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Good morning का अर्थ शुभ प्रभात है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 7,
+    "question": "Choose the opposite of “hot”.",
+    "options": [
+      "Warm",
+      "Cold",
+      "Big",
+      "Fast"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Hot का opposite Cold है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 8,
+    "question": "What is the past tense of “go”?",
+    "options": [
+      "Goed",
+      "Gone",
+      "Went",
+      "Going"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Go का simple past Went है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 9,
+    "question": "Fill in: They ___ playing.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "They के साथ are आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct article: ___ apple.",
+    "options": [
+      "A",
+      "An",
+      "Thee",
+      "No article ever"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Apple की शुरुआत vowel sound से होती है, इसलिए an।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 11,
+    "question": "What is the English word for “पानी”?",
+    "options": [
+      "Fire",
+      "Water",
+      "Air",
+      "Earth"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "पानी को English में Water कहते हैं।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 12,
+    "question": "Choose the opposite of “early”.",
+    "options": [
+      "Soon",
+      "Fast",
+      "Late",
+      "Quick"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Early का opposite Late है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 13,
+    "question": "Complete: He ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "He/She/It के साथ present simple में goes।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 14,
+    "question": "What is the plural of “child”?",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Child का plural Children है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 15,
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Beautifull",
+      "Beutiful",
+      "Beautiful",
+      "Beautifal"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "सही spelling Beautiful है।",
+    "category": "Spelling",
+    "level": "Beginner"
+  },
+  {
+    "id": 16,
+    "question": "What does “Please” mean in Hindi?",
+    "options": [
+      "कृपया",
+      "माफ़ी",
+      "कल",
+      "कहाँ"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Please का अर्थ कृपया है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 17,
+    "question": "Fill in: I have ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "thee",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Umbrella vowel sound से शुरू होता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 18,
+    "question": "Choose the synonym of “happy”.",
+    "options": [
+      "Sad",
+      "Glad",
+      "Angry",
+      "Tired"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Glad का अर्थ happy जैसा है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 19,
+    "question": "What is the past tense of “eat”?",
+    "options": [
+      "Eated",
+      "Ate",
+      "Eaten",
+      "Eating"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Eat का simple past Ate है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 20,
+    "question": "Choose the correct question.",
+    "options": [
+      "Where you live?",
+      "Where do you live?",
+      "Where does you live?",
+      "Where living you?"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Present simple में I/you/we/they के साथ do।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 21,
+    "question": "Practice 1: What is the English meaning of “नमस्ते”?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Please"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "नमस्ते का अर्थ Hello होता है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 22,
+    "question": "Practice 2: What is the Hindi meaning of “Thank you”?",
+    "options": [
+      "माफ़ कीजिए",
+      "धन्यवाद",
+      "शुभ रात्रि",
+      "कृपया"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Thank you का अर्थ धन्यवाद है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 23,
+    "question": "Practice 3: Choose the correct sentence.",
+    "options": [
+      "I is happy.",
+      "I are happy.",
+      "I am happy.",
+      "I be happy."
+    ],
+    "answerIndex": 2,
+    "explanationHi": "I के साथ am आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 24,
+    "question": "Practice 4: What is the plural of “book”?",
+    "options": [
+      "Bookes",
+      "Books",
+      "Bookies",
+      "Book's"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Book का plural Books है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 25,
+    "question": "Practice 5: Complete: She ___ a student.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "She के साथ is आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 26,
+    "question": "Practice 6: What does “Good morning” mean?",
+    "options": [
+      "शुभ प्रभात",
+      "शुभ रात्रि",
+      "अलविदा",
+      "धन्यवाद"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Good morning का अर्थ शुभ प्रभात है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 27,
+    "question": "Practice 7: Choose the opposite of “hot”.",
+    "options": [
+      "Warm",
+      "Cold",
+      "Big",
+      "Fast"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Hot का opposite Cold है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 28,
+    "question": "Practice 8: What is the past tense of “go”?",
+    "options": [
+      "Goed",
+      "Gone",
+      "Went",
+      "Going"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Go का simple past Went है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 29,
+    "question": "Practice 9: Fill in: They ___ playing.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "They के साथ are आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 30,
+    "question": "Practice 10: Choose the correct article: ___ apple.",
+    "options": [
+      "A",
+      "An",
+      "Thee",
+      "No article ever"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Apple की शुरुआत vowel sound से होती है, इसलिए an।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 31,
+    "question": "Practice 11: What is the English word for “पानी”?",
+    "options": [
+      "Fire",
+      "Water",
+      "Air",
+      "Earth"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "पानी को English में Water कहते हैं।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 32,
+    "question": "Practice 12: Choose the opposite of “early”.",
+    "options": [
+      "Soon",
+      "Fast",
+      "Late",
+      "Quick"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Early का opposite Late है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 33,
+    "question": "Practice 13: Complete: He ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "He/She/It के साथ present simple में goes।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 34,
+    "question": "Practice 14: What is the plural of “child”?",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Child का plural Children है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 35,
+    "question": "Practice 15: Choose the correct spelling.",
+    "options": [
+      "Beautifull",
+      "Beutiful",
+      "Beautiful",
+      "Beautifal"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "सही spelling Beautiful है।",
+    "category": "Spelling",
+    "level": "Beginner"
+  },
+  {
+    "id": 36,
+    "question": "Practice 16: What does “Please” mean in Hindi?",
+    "options": [
+      "कृपया",
+      "माफ़ी",
+      "कल",
+      "कहाँ"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Please का अर्थ कृपया है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 37,
+    "question": "Practice 17: Fill in: I have ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "thee",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Umbrella vowel sound से शुरू होता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 38,
+    "question": "Practice 18: Choose the synonym of “happy”.",
+    "options": [
+      "Sad",
+      "Glad",
+      "Angry",
+      "Tired"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Glad का अर्थ happy जैसा है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 39,
+    "question": "Practice 19: What is the past tense of “eat”?",
+    "options": [
+      "Eated",
+      "Ate",
+      "Eaten",
+      "Eating"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Eat का simple past Ate है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 40,
+    "question": "Practice 20: Choose the correct question.",
+    "options": [
+      "Where you live?",
+      "Where do you live?",
+      "Where does you live?",
+      "Where living you?"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Present simple में I/you/we/they के साथ do।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 41,
+    "question": "Practice 21: Practice 1: What is the English meaning of “नमस्ते”?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Please"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "नमस्ते का अर्थ Hello होता है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 42,
+    "question": "Practice 22: Practice 2: What is the Hindi meaning of “Thank you”?",
+    "options": [
+      "माफ़ कीजिए",
+      "धन्यवाद",
+      "शुभ रात्रि",
+      "कृपया"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Thank you का अर्थ धन्यवाद है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 43,
+    "question": "Practice 23: Practice 3: Choose the correct sentence.",
+    "options": [
+      "I is happy.",
+      "I are happy.",
+      "I am happy.",
+      "I be happy."
+    ],
+    "answerIndex": 2,
+    "explanationHi": "I के साथ am आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 44,
+    "question": "Practice 24: Practice 4: What is the plural of “book”?",
+    "options": [
+      "Bookes",
+      "Books",
+      "Bookies",
+      "Book's"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Book का plural Books है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 45,
+    "question": "Practice 25: Practice 5: Complete: She ___ a student.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "She के साथ is आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 46,
+    "question": "Practice 26: Practice 6: What does “Good morning” mean?",
+    "options": [
+      "शुभ प्रभात",
+      "शुभ रात्रि",
+      "अलविदा",
+      "धन्यवाद"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Good morning का अर्थ शुभ प्रभात है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 47,
+    "question": "Practice 27: Practice 7: Choose the opposite of “hot”.",
+    "options": [
+      "Warm",
+      "Cold",
+      "Big",
+      "Fast"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Hot का opposite Cold है।",
+    "category": "Vocabulary",
+    "level": "Beginner"
+  },
+  {
+    "id": 48,
+    "question": "Practice 28: Practice 8: What is the past tense of “go”?",
+    "options": [
+      "Goed",
+      "Gone",
+      "Went",
+      "Going"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Go का simple past Went है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 49,
+    "question": "Practice 29: Practice 9: Fill in: They ___ playing.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "They के साथ are आता है।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 50,
+    "question": "Practice 30: Practice 10: Choose the correct article: ___ apple.",
+    "options": [
+      "A",
+      "An",
+      "Thee",
+      "No article ever"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Apple की शुरुआत vowel sound से होती है, इसलिए an।",
+    "category": "Grammar",
+    "level": "Beginner"
+  },
+  {
+    "id": 51,
+    "question": "Practice 31: Practice 11: What is the English word for “पानी”?",
+    "options": [
+      "Fire",
+      "Water",
+      "Air",
+      "Earth"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "पानी को English में Water कहते हैं।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 52,
+    "question": "Practice 32: Practice 12: Choose the opposite of “early”.",
+    "options": [
+      "Soon",
+      "Fast",
+      "Late",
+      "Quick"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Early का opposite Late है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 53,
+    "question": "Practice 33: Practice 13: Complete: He ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "He/She/It के साथ present simple में goes।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 54,
+    "question": "Practice 34: Practice 14: What is the plural of “child”?",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Child का plural Children है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 55,
+    "question": "Practice 35: Practice 15: Choose the correct spelling.",
+    "options": [
+      "Beautifull",
+      "Beutiful",
+      "Beautiful",
+      "Beautifal"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "सही spelling Beautiful है।",
+    "category": "Spelling",
+    "level": "Practice"
+  },
+  {
+    "id": 56,
+    "question": "Practice 36: Practice 16: What does “Please” mean in Hindi?",
+    "options": [
+      "कृपया",
+      "माफ़ी",
+      "कल",
+      "कहाँ"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Please का अर्थ कृपया है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 57,
+    "question": "Practice 37: Practice 17: Fill in: I have ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "thee",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Umbrella vowel sound से शुरू होता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 58,
+    "question": "Practice 38: Practice 18: Choose the synonym of “happy”.",
+    "options": [
+      "Sad",
+      "Glad",
+      "Angry",
+      "Tired"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Glad का अर्थ happy जैसा है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 59,
+    "question": "Practice 39: Practice 19: What is the past tense of “eat”?",
+    "options": [
+      "Eated",
+      "Ate",
+      "Eaten",
+      "Eating"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Eat का simple past Ate है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 60,
+    "question": "Practice 40: Practice 20: Choose the correct question.",
+    "options": [
+      "Where you live?",
+      "Where do you live?",
+      "Where does you live?",
+      "Where living you?"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Present simple में I/you/we/they के साथ do।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 61,
+    "question": "Practice 41: Practice 21: Practice 1: What is the English meaning of “नमस्ते”?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Please"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "नमस्ते का अर्थ Hello होता है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 62,
+    "question": "Practice 42: Practice 22: Practice 2: What is the Hindi meaning of “Thank you”?",
+    "options": [
+      "माफ़ कीजिए",
+      "धन्यवाद",
+      "शुभ रात्रि",
+      "कृपया"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Thank you का अर्थ धन्यवाद है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 63,
+    "question": "Practice 43: Practice 23: Practice 3: Choose the correct sentence.",
+    "options": [
+      "I is happy.",
+      "I are happy.",
+      "I am happy.",
+      "I be happy."
+    ],
+    "answerIndex": 2,
+    "explanationHi": "I के साथ am आता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 64,
+    "question": "Practice 44: Practice 24: Practice 4: What is the plural of “book”?",
+    "options": [
+      "Bookes",
+      "Books",
+      "Bookies",
+      "Book's"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Book का plural Books है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 65,
+    "question": "Practice 45: Practice 25: Practice 5: Complete: She ___ a student.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "She के साथ is आता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 66,
+    "question": "Practice 46: Practice 26: Practice 6: What does “Good morning” mean?",
+    "options": [
+      "शुभ प्रभात",
+      "शुभ रात्रि",
+      "अलविदा",
+      "धन्यवाद"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Good morning का अर्थ शुभ प्रभात है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 67,
+    "question": "Practice 47: Practice 27: Practice 7: Choose the opposite of “hot”.",
+    "options": [
+      "Warm",
+      "Cold",
+      "Big",
+      "Fast"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Hot का opposite Cold है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 68,
+    "question": "Practice 48: Practice 28: Practice 8: What is the past tense of “go”?",
+    "options": [
+      "Goed",
+      "Gone",
+      "Went",
+      "Going"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Go का simple past Went है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 69,
+    "question": "Practice 49: Practice 29: Practice 9: Fill in: They ___ playing.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "They के साथ are आता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 70,
+    "question": "Practice 50: Practice 30: Practice 10: Choose the correct article: ___ apple.",
+    "options": [
+      "A",
+      "An",
+      "Thee",
+      "No article ever"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Apple की शुरुआत vowel sound से होती है, इसलिए an।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 71,
+    "question": "Practice 51: Practice 31: Practice 11: What is the English word for “पानी”?",
+    "options": [
+      "Fire",
+      "Water",
+      "Air",
+      "Earth"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "पानी को English में Water कहते हैं।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 72,
+    "question": "Practice 52: Practice 32: Practice 12: Choose the opposite of “early”.",
+    "options": [
+      "Soon",
+      "Fast",
+      "Late",
+      "Quick"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Early का opposite Late है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 73,
+    "question": "Practice 53: Practice 33: Practice 13: Complete: He ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "He/She/It के साथ present simple में goes।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 74,
+    "question": "Practice 54: Practice 34: Practice 14: What is the plural of “child”?",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Child का plural Children है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 75,
+    "question": "Practice 55: Practice 35: Practice 15: Choose the correct spelling.",
+    "options": [
+      "Beautifull",
+      "Beutiful",
+      "Beautiful",
+      "Beautifal"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "सही spelling Beautiful है।",
+    "category": "Spelling",
+    "level": "Practice"
+  },
+  {
+    "id": 76,
+    "question": "Practice 56: Practice 36: Practice 16: What does “Please” mean in Hindi?",
+    "options": [
+      "कृपया",
+      "माफ़ी",
+      "कल",
+      "कहाँ"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Please का अर्थ कृपया है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 77,
+    "question": "Practice 57: Practice 37: Practice 17: Fill in: I have ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "thee",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Umbrella vowel sound से शुरू होता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 78,
+    "question": "Practice 58: Practice 38: Practice 18: Choose the synonym of “happy”.",
+    "options": [
+      "Sad",
+      "Glad",
+      "Angry",
+      "Tired"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Glad का अर्थ happy जैसा है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 79,
+    "question": "Practice 59: Practice 39: Practice 19: What is the past tense of “eat”?",
+    "options": [
+      "Eated",
+      "Ate",
+      "Eaten",
+      "Eating"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Eat का simple past Ate है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 80,
+    "question": "Practice 60: Practice 40: Practice 20: Choose the correct question.",
+    "options": [
+      "Where you live?",
+      "Where do you live?",
+      "Where does you live?",
+      "Where living you?"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Present simple में I/you/we/they के साथ do।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 81,
+    "question": "Practice 61: Practice 41: Practice 21: Practice 1: What is the English meaning of “नमस्ते”?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Please"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "नमस्ते का अर्थ Hello होता है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 82,
+    "question": "Practice 62: Practice 42: Practice 22: Practice 2: What is the Hindi meaning of “Thank you”?",
+    "options": [
+      "माफ़ कीजिए",
+      "धन्यवाद",
+      "शुभ रात्रि",
+      "कृपया"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Thank you का अर्थ धन्यवाद है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 83,
+    "question": "Practice 63: Practice 43: Practice 23: Practice 3: Choose the correct sentence.",
+    "options": [
+      "I is happy.",
+      "I are happy.",
+      "I am happy.",
+      "I be happy."
+    ],
+    "answerIndex": 2,
+    "explanationHi": "I के साथ am आता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 84,
+    "question": "Practice 64: Practice 44: Practice 24: Practice 4: What is the plural of “book”?",
+    "options": [
+      "Bookes",
+      "Books",
+      "Bookies",
+      "Book's"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Book का plural Books है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 85,
+    "question": "Practice 65: Practice 45: Practice 25: Practice 5: Complete: She ___ a student.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "She के साथ is आता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 86,
+    "question": "Practice 66: Practice 46: Practice 26: Practice 6: What does “Good morning” mean?",
+    "options": [
+      "शुभ प्रभात",
+      "शुभ रात्रि",
+      "अलविदा",
+      "धन्यवाद"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Good morning का अर्थ शुभ प्रभात है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 87,
+    "question": "Practice 67: Practice 47: Practice 27: Practice 7: Choose the opposite of “hot”.",
+    "options": [
+      "Warm",
+      "Cold",
+      "Big",
+      "Fast"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Hot का opposite Cold है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 88,
+    "question": "Practice 68: Practice 48: Practice 28: Practice 8: What is the past tense of “go”?",
+    "options": [
+      "Goed",
+      "Gone",
+      "Went",
+      "Going"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Go का simple past Went है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 89,
+    "question": "Practice 69: Practice 49: Practice 29: Practice 9: Fill in: They ___ playing.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "They के साथ are आता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 90,
+    "question": "Practice 70: Practice 50: Practice 30: Practice 10: Choose the correct article: ___ apple.",
+    "options": [
+      "A",
+      "An",
+      "Thee",
+      "No article ever"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Apple की शुरुआत vowel sound से होती है, इसलिए an।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 91,
+    "question": "Practice 71: Practice 51: Practice 31: Practice 11: What is the English word for “पानी”?",
+    "options": [
+      "Fire",
+      "Water",
+      "Air",
+      "Earth"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "पानी को English में Water कहते हैं।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 92,
+    "question": "Practice 72: Practice 52: Practice 32: Practice 12: Choose the opposite of “early”.",
+    "options": [
+      "Soon",
+      "Fast",
+      "Late",
+      "Quick"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Early का opposite Late है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 93,
+    "question": "Practice 73: Practice 53: Practice 33: Practice 13: Complete: He ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "He/She/It के साथ present simple में goes।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 94,
+    "question": "Practice 74: Practice 54: Practice 34: Practice 14: What is the plural of “child”?",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "Child का plural Children है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 95,
+    "question": "Practice 75: Practice 55: Practice 35: Practice 15: Choose the correct spelling.",
+    "options": [
+      "Beautifull",
+      "Beutiful",
+      "Beautiful",
+      "Beautifal"
+    ],
+    "answerIndex": 2,
+    "explanationHi": "सही spelling Beautiful है।",
+    "category": "Spelling",
+    "level": "Practice"
+  },
+  {
+    "id": 96,
+    "question": "Practice 76: Practice 56: Practice 36: Practice 16: What does “Please” mean in Hindi?",
+    "options": [
+      "कृपया",
+      "माफ़ी",
+      "कल",
+      "कहाँ"
+    ],
+    "answerIndex": 0,
+    "explanationHi": "Please का अर्थ कृपया है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 97,
+    "question": "Practice 77: Practice 57: Practice 37: Practice 17: Fill in: I have ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "thee",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Umbrella vowel sound से शुरू होता है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 98,
+    "question": "Practice 78: Practice 58: Practice 38: Practice 18: Choose the synonym of “happy”.",
+    "options": [
+      "Sad",
+      "Glad",
+      "Angry",
+      "Tired"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Glad का अर्थ happy जैसा है।",
+    "category": "Vocabulary",
+    "level": "Practice"
+  },
+  {
+    "id": 99,
+    "question": "Practice 79: Practice 59: Practice 39: Practice 19: What is the past tense of “eat”?",
+    "options": [
+      "Eated",
+      "Ate",
+      "Eaten",
+      "Eating"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Eat का simple past Ate है।",
+    "category": "Grammar",
+    "level": "Practice"
+  },
+  {
+    "id": 100,
+    "question": "Practice 80: Practice 60: Practice 40: Practice 20: Choose the correct question.",
+    "options": [
+      "Where you live?",
+      "Where do you live?",
+      "Where does you live?",
+      "Where living you?"
+    ],
+    "answerIndex": 1,
+    "explanationHi": "Present simple में I/you/we/they के साथ do।",
+    "category": "Grammar",
+    "level": "Practice"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "EW \u2014 English Wallah",
+  "short_name": "English Wallah",
+  "description": "Learn English with Hindi support and practise English quizzes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fc",
+  "theme_color": "#14244b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
